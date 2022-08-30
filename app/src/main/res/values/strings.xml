@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScannerTablo</string>
+    <string name="btn_reg">Зарегистрировать\nкамеру</string>
+</resources>
